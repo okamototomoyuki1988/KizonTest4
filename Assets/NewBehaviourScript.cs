@@ -10,6 +10,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	
 	// Update is called once per frameTEST
 	void Update () {
-	
+		int x = 1234;
 	}
 }
